@@ -1,0 +1,12 @@
+# Overview (추천하는 방법)
+
+![image.png](attachment:82e957bc-7581-4b9e-89f8-3827f6d5577b:image.png)
+
+# Homebrew로 Sui CLI 설치하기 (Mac, Linux 기준)
+
+<aside>
+🔗
+
+window 사용자는 wsl을 이용하여 linux를 설치한 후 sui cli를 설치하는 것을 권장합니다.
+
+</aside>
